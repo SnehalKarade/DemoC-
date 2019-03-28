@@ -48,9 +48,8 @@ namespace SeleniumProject
             objFirstCryPage.clickOnAddToCart();
             objFirstCryPage.validateTotalAmount();
             objFirstCryPage.clickOnAddToCart();
-            objFirstCryPage.setEmailAddress();
-            objFirstCryPage.clickOnContinue();
-            objFirstCryPage.setName();
+           
+            
             objFirstCryPage.setFlatNumber();
             objFirstCryPage.setColony();
             objFirstCryPage.setPinCode();
