@@ -50,9 +50,7 @@ namespace SeleniumProject
             objFirstCryPage.clickOnAddToCart();
            
             
-            objFirstCryPage.setFlatNumber();
-            objFirstCryPage.setColony();
-            objFirstCryPage.setPinCode();
+           
             objFirstCryPage.setMobileNumber();
             objFirstCryPage.clickOnUseThisAddress();
             objFirstCryPage.clickOnAddGiftWrap();
